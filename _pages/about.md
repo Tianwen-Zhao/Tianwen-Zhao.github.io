@@ -18,16 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
-+ My research interest includes **Internet of things, network security, wireless localization and machine learning,** and I have published my works in  **IEEE Sens. J. and IEEE IoT J.** in related areas. 
++ Chengdu Jincheng College Undergraduate student in Accounting（The School's only signature program), National Scholarship and President's Special Scholarship in 2021.
++ My research interests include **spatial econometrics, applied mathematics, regional economics, financial mathematical modelling**, etc. 
++ Publications in related fields have been submitted and published in **EI INDEX, SCOUPS, WEB OF SCIENCE** and other databases.
+
 
 # 🔥 Recent News
-- 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
-- 2022.11: Assigned as a research assistant of [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng).
-- 2022.08: Got the PhD offer from **The Chinese University of Hong Kong, Shenzhen** with full scholarships. 
-- 2022.07: Paper entitled 'LSTM-Based Detection Scheme against Selective Forwarding in Event-Driven WSN under Harsh Circumstances' has been submitted to *IEEE IoT J.(IF=10.238).*
-- 2022.04: Paper entitled 'Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks' has been published in *IEEE Sens. J.(IF=4.536).*
-- 2020.09: Joined **the State Key Laboratory of Electronic Thin Films and Integrated Devices** in UESTC, supervised by [Prof. Yuanming Wu](https://sose.uestc.edu.cn/info/1022/1928.htm).
+
+- 2022.03：By the Project of Sichuan Animation Research Centre, a key research base of social sciences in Sichuan Province (Project No. DM202125). The fund-sponsored paper entitled "Study on the Synergistic Development Path and Countermeasures of Sichuan Animation Industry and Regional Economy" was published in Inner Mongolia Science Technology & Economy. (*IF=0.189*)
+
+- 2022.02：By the Project of the Research Centre for Sports and Health Innovation of Zigong Key Research Base of Philosophy and Social Sciences (YDJKY21-01); Project of Sichuan Sports Industry and Public Service Research Centre of Mianyang Key Research Base of Philosophy and Social Sciences (SCTY2021ZC08); Project of the Research Centre for National Physical Health and Sports Industry of Zigong Key Research Base of Philosophy and Social Sciences (GT-02022105). The fund-sponsored paper entitled "Research on the path of sports industry clustering in the twin-city economic circle of Chengdu and Chongqing region" was published in Inner Mongolia Science Technology & Economy. (*IF=0.189*)
+
+- 2021.07：By the Major Project of Sichuan Province and Chongqing Social Science Planning "Chengdu-Chongqing Region Twin Cities Economic Circle" (SC20ZDCY009); Project of Regional Public Management Informatization Research Center of Sichuan Province Key Research Bases of Philosophy and Social Sciences (QGXH19-09). The fund-sponsored paper entitled "Analysis of the Solvency Capacity of a Large Private Joint Stock Enterprise Group: The Case of Yonghui Supermarket" was published in Inner Mongolia Science Technology & Economy. (*IF=0.189*)
+
+- 2021.05：By the Project of Sichuan County Economic Development Research Centre, a key research base of social sciences in Sichuan Province (xy2020063); Project of Yi Culture Research Centre, a key research base of social sciences in Sichuan Province (YZWH2006); Project of China Panxi Leisure Industry Research Centre (PXKY-YB-202002); Project of Chengdu Philosophy and Social Science Planning (YN0520200318). The fund-sponsored paper entitled "On the optimization strategy of internal control of enterprise finance - the example of enterprise S" was published in Inner Mongolia Science Technology & Economy. (*IF=0.189*)
+
+- 2020.10：By the Project of Sichuan County Economic Development Research Center (xy2020063); Project of Sichuan Provincial Social Science Key Research Base Research Center for the Protection and Development of Local Cultural Resources (DFWH2020-032); Project of Chengdu City Philosophy and Social Science Planning (YN0520200318). The fund-sponsored paper entitled " Research on the Impact of the Exhibition Industry on Regional Economic Development in Sichuan Province - Based on Grey Correlation Analysis" was published in Trade Fair Economy.
+
+- 2019.12：By the General Project of the National Social Science Foundation of China (19BGL266); Soft Science Research Project of Sichuan Provincial Science and Technology Department (19JDR0084). The fund-sponsored paper entitled "Exploring the Motivation and Promotion Strategy of Collaborative Innovation in Big Data Industry" was published in Journal of Jinling Institute of Technology (Social Sciences Edition). (*IF=0.554*)
 
 # 📝 Publications 
 
