@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyu Huang"
-description              : "A PhD student of CUHKSZ. "
-repository               : "XinYU-Huang1/XinYU-Huang1.github.io"
+title                    : "Tianwen Zhao"
+description              : "Chengdu Jincheng College Undergraduate student in Accounting. "
+repository               : "Tianwen-Zhao/Tianwen-Zhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyu Huang"
+  name             : "Tianwen Zhao"
   avatar           : "images/me.jpg"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=zh-CN"
-  email            : "xyhuang@ieee.org"
-  researchgate     : "https://www.researchgate.net/profile/Xinyu-Huang-56"
+  googlescholar    : "https://scholar.google.com/citations?user=HspkYHgAAAAJ&hl=zh-CN"
+  email            : "zhaotianwen305@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinYu-Huang1"
+  github           : "Tianwen-Zhao"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-3125-0411"
+  orcid            : "https://orcid.org/0000-0002-0528-6496"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  Wechat           : "YYan-Joker"
+  Wechat           : 
   youtube          :
   wikipedia        :
 
