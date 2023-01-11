@@ -38,6 +38,7 @@ redirect_from:
 - 2019.12：By the **General Project of the National Social Science Foundation of China (19BGL266); Soft Science Research Project of Sichuan Provincial Science and Technology Department (19JDR0084)**. The fund-sponsored paper entitled "*Exploring the Motivation and Promotion Strategy of Collaborative Innovation in Big Data Industry*" was published in *Journal of Jinling Institute of Technology (Social Sciences Edition). (IF=0.554)
 
 # 📝 Research Projects
+
 ## 2022
 - Study on the Mechanism and Path of Realizing the Value of Ecological Products Driven by Green Technology Innovation in the Tuojiang River Basin. 
 - Research on Innovation Path of Panzhihua Xichang Health Care Industry Integration Development under the Background of Digital Economy.
@@ -45,6 +46,7 @@ redirect_from:
 - A study on tourists' willingness to travel for forest health based on the theory of planned behavior.
 - Research on Intelligent Fault Diagnosis Method of VP Tiltmeter Based on Machine Learning.
 - A small seismic data processing software system based on cross platform technology.
+
 ## 2020
 - Research on the coordinated development of green industry and green finance in tuojiang river basin.
 - Study on the coordinated development of sichuan agricultural culture and regional economy.
