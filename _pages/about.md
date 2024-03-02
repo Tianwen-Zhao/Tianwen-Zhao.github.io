@@ -39,6 +39,13 @@ redirect_from:
 
 # 📝 Research Projects
 
+## 2023
+- Study on the Industrial Cluster and Spatial Differentiation Strategy of Prepared Vegetables in Chengdu-Chongqing Twin Cities Economic Circle by Sichuan Provincial Key Research Base of Social Sciences, Sichuan Cuisine Development Research Centre (Project No. CC23G23)
+- Study on the Mechanism and Path of Realising the Value of Eco-Products in Fuling River Basin Counties Driven by Green Technology Innovation, Sichuan Key Research Base of Social Sciences, Sichuan County Economic Development Research Centre (Project No. xy2023014)
+- Research on Mechanisms and Paths for Improving Supply Chain Resilience in the Potato Industry Driven by Digitisation, Key Research Base of Humanities and Social Sciences, Sichuan Provincial Department of Education, Potato Staple Grain Strategy Research Centre (Project No. MLS202308)
+- Study on the Mechanism and Path of Realising the Value of Eco-products in the Chengdu-Chongqing Twin-city Economic Circle Driven by Green Technological Innovation (Project No. CYCX2023ZC23), Research Centre for Science and Technology Innovation and New Economy of the Chengdu-Chongqing Twin-city Economic Circle, Key Research Base of Sichuan Universities in Social Science
+- Project of Sichuan Provincial Key Research Base of Philosophy and Social Sciences, China Panxi Recreation and Nutrition Industry Research Centre, "Research on the Innovative Path of Integrated Development of Panxi Recreation and Nutrition Industry in the Context of Digital Economy" (Project No. PXKY-YB-202203)
+
 ## 2022
 - Study on the Mechanism and Path of Realizing the Value of Ecological Products Driven by Green Technology Innovation in the Tuojiang River Basin. 
 - Research on Innovation Path of Panzhihua Xichang Health Care Industry Integration Development under the Background of Digital Economy.
