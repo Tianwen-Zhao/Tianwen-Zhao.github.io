@@ -26,11 +26,11 @@ redirect_from:
 # 🔥 Recent News
 - 2023.10-2024.03: Under Review ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Study on the optimal path of emergency material distribution in 5G network environment for delivery vehicles and UAV" SCI Journals Fluctuation and Noise Letters（JCR Q3）"**.
 
-- 2024.03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Credit Risk Analysis of Micro and Small Enterprises Based on Big Data - A Big Data-Driven Logistic Regression Model Based on Bank Credit Records" was published on 7 July 2024 in the International Conference on Applied Statistics. Logistic Regression Modelling of Bank Credit Records"** published in the 7th International Symposium on Big Data and Applied Statistics, 2024.(EI Index，SCOUPS)
+- 2024.03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Credit Risk Analysis of Micro and Small Enterprises Based on Big Data - A Big Data-Driven Logistic Regression Model Based on Bank Credit Records" was published on 7 July 2024 in the International Conference on Applied Statistics. Logistic Regression Modelling of Bank Credit Records"** published in the 7th International Symposium on Big Data and Applied Statistics, 2024.**(EI Index，SCOUPS)**
 
-- 2023.10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, (Peking University Chinese Core Journals，JST, Pж(AJ), CSCD, WJCI, IF: 1.537, ).
+- 2023.10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, **(Peking University Chinese Core Journals，JST, Pж(AJ), CSCD, WJCI, IF: 1.537)**.
 
-- 2023.07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.(EI Index，SCOUPS)
+- 2023.07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.**(EI Index，SCOUPS)**
 
 - 2022.03：By the **Project of Sichuan Animation Research Centre, a key research base of social sciences in Sichuan Province (Project No. DM202125)**. The fund-sponsored paper entitled "*Study on the Synergistic Development Path and Countermeasures of Sichuan Animation Industry and Regional Economy*" was published in *Inner Mongolia Science Technology & Economy. (IF=0.189)
 
@@ -99,7 +99,7 @@ redirect_from:
 # 🎖 Honors and Awards
 - 2022.06: 14th National Student Mathematical Modelling Competition in Electrical Engineering, 2022, **First prize**
 - 2021.12: Principal's Special Scholarship (**TOP 0.01%**)
-- 2021.11: National Scholarship **(TOP 0.1%)
+- 2021.11: National Scholarship **(TOP 0.1%)**
 - 2021.09: 2021 National Student Mathematical Modelling Competition, **Third Prize**
 - 2021.08: 2021 Huashu Cup National University Student Mathematical Modelling Competition, **Third Prize**
 - 2021.06: The 11th Mathorcup Collegiate Mathematical Modelling Challenge, 2021, **First Prize**
@@ -115,7 +115,7 @@ redirect_from:
 
 # 📖 Educations
 - 2019.09 - 2022.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. College degree
-- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **first** student of the whole school since its foundation）
+- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
 
 **Language Proficiency and Overseas Academic Exchange**
 - 2023.07-08:Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
