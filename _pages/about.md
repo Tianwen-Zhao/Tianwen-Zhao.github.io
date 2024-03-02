@@ -118,7 +118,7 @@ redirect_from:
 - 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **first** student of the whole school since its foundation）
 
 **Language Proficiency and Overseas Academic Exchange**
-- 2023.07-08:Academic Exchange at Mahasarakham University and Khon Kaen University, Thailand
+- 2023.07-08:Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
 - 2020.12: CET 4 Score--298
 
 
