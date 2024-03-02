@@ -67,7 +67,7 @@ redirect_from:
 - Research on the mechanism and realization path of the combination of medical care and elderly care in rural areas of sichuan province
 - Research on the Health Care Industry Cluster and Spatial Differentiation Strategy in Panxi in the Post epidemic Period.
 
-# 🔧 Inventions and Innovations
+# 🔧 Inventions and Innovations（China Patent）
 - 2024.03: "Translator" 202330606023.7
 - 2024.02: "Pen holder" 202330629263.9
 - 2022.12: "A self-service terminal device for financial services." CN217941055U.
@@ -118,7 +118,7 @@ redirect_from:
 - 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
 
 **Language Proficiency and Overseas Academic Exchange**
-- 2023.07-08:Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
+- 2023.07-08: Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
 - 2020.12: CET 4 Score--298
 
 
@@ -131,7 +131,7 @@ redirect_from:
 - 2022.03: Mathematical Modelling Research Centre, Chengdu Jincheng College, **Research Fellow**
 - 2021.12: Chinese Academy of Natural Sciences, Chengdu, China
 - 2021.12: Chengdu Branch of the Chinese Academy of Sciences, Chengdu, China
-- 2021.03：2021Published a high value paper which was appreciated by Ma Zelin, Deputy Director of Chengdu Expo Bureau, and invited to cooperate with Chengdu Sugar & Wine Fair for exhibition projects.
+- 2021.03：Published a high value paper which was appreciated by Ma Zelin, Deputy Director of Chengdu Expo Bureau, and invited to cooperate with Chengdu Sugar & Wine Fair for exhibition projects.
 
 # 💻 Internships
 - 2021.06-2021.07: **Chinese Society of Operations Research**, Computational Systems Biology Branch, Beijing, China
