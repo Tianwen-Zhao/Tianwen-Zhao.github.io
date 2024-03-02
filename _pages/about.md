@@ -20,10 +20,18 @@ redirect_from:
 # 🧑‍🎓 About Me
 + Chengdu Jincheng College Undergraduate student in Accounting（The School's only signature program), National Scholarship and President's Special Scholarship in 2021.
 + My research interests include **spatial econometrics, applied mathematics, regional economics, financial mathematical modelling**, etc. 
-+ Publications in related fields have been submitted and published in **EI INDEX, SCOUPS, WEB OF SCIENCE** and other databases.
++ Publications in related fields have been submitted and published in **EI INDEX, SCOUPS, GOOGLE_SCHOLAR, CNKI_SCHOLAR** and other databases.
 
 
 # 🔥 Recent News
+- 2023. 10-2024.03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Study on the optimal path of emergency material distribution in 5G network environment for delivery vehicles and UAV" SCI Journals Fluctuation and Noise Letters（JCR Q3）"** Under Review.
+
+
+- 2024. 03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Credit Risk Analysis of Micro and Small Enterprises Based on Big Data - A Big Data-Driven Logistic Regression Model Based on Bank Credit Records" was published on 7 July 2024 in the International Conference on Applied Statistics. Logistic Regression Modelling of Bank Credit Records"** published in the 7th International Symposium on Big Data and Applied Statistics, 2024.(EI Index，SCOUPS)
+
+- 2023. 10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, (Peking University Chinese Core Journals，JST, Pж(AJ), CSCD, WJCI, IF: 1.537, ).
+
+- 2023. 07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.(EI Index，SCOUPS)
 
 - 2022.03：By the **Project of Sichuan Animation Research Centre, a key research base of social sciences in Sichuan Province (Project No. DM202125)**. The fund-sponsored paper entitled "*Study on the Synergistic Development Path and Countermeasures of Sichuan Animation Industry and Regional Economy*" was published in *Inner Mongolia Science Technology & Economy. (IF=0.189)
 
@@ -61,6 +69,8 @@ redirect_from:
 - Research on the Health Care Industry Cluster and Spatial Differentiation Strategy in Panxi in the Post epidemic Period.
 
 # 🔧 Inventions and Innovations
+- 2024.03: "Translator" 202330606023.7
+- 2024.02: "Pen holder" 202330629263.9
 - 2022.12: "A self-service terminal device for financial services." CN217941055U.
 - 2022.12: "An insurance device for use in the financial field." CN217950106U.
 - 2022.10: "A financial instrument processing device with automatic positioning function." CN217550010U.
@@ -88,29 +98,37 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- 2022.08: Chinese Society of Electrical Engineering, **Student Fellow
-- 2022.07: Chinese Society of Industrial and Applied Mathematics, **Student Fellow
-- 2022.06: 14th National Student Mathematical Modelling Competition in Electrical Engineering, 2022, **First prize
-- 2022.03: Mathematical Modelling Research Centre, Chengdu Jincheng College, **Research Fellow
+- 2022.06: 14th National Student Mathematical Modelling Competition in Electrical Engineering, 2022, **First prize**
 - 2021.12: Principal's Special Scholarship (**TOP 0.01%**)
 - 2021.11: National Scholarship **(TOP 0.1%)
-- 2021.09: 2021 National Student Mathematical Modelling Competition, **Third Prize
-- 2021.08: 2021 Huashu Cup National University Student Mathematical Modelling Competition, **Third Prize
-- 2021.06: The 11th Mathorcup Collegiate Mathematical Modelling Challenge, 2021, **First Prize
-- 2021.04: China Research Society of Preferential Method Integrative Method and Economic Mathematics, **Student Fellow
-- 2021.02: Established Jinda Mathematical Modelling Association, **Founder and President
-- 2020.12: 2020 Greater Bay Area Guangdong, Hong Kong and Macau Financial Mathematical Modelling Competition, **Second Prize
-- 2020.11: 2020 APMCM Asia-Pacific College Mathematical Modelling Competition, **Second Prize
+- 2021.09: 2021 National Student Mathematical Modelling Competition, **Third Prize**
+- 2021.08: 2021 Huashu Cup National University Student Mathematical Modelling Competition, **Third Prize**
+- 2021.06: The 11th Mathorcup Collegiate Mathematical Modelling Challenge, 2021, **First Prize**
+- 2021.04: China Research Society of Preferential Method Integrative Method and Economic Mathematics, **Student Fellow**
+- 2021.02: Established Jinda Mathematical Modelling Association, **Founder and President**
+- 2020.12: 2020 Greater Bay Area Guangdong, Hong Kong and Macau Financial Mathematical Modelling Competition, **Second Prize**
+- 2020.11: 2020 APMCM Asia-Pacific College Mathematical Modelling Competition, **Second Prize**
 - 2020.10: A-level certificate of comprehensive quality for university students in Sichuan Province
-- 2020.09: Creation and Innovation Prize, Chengdu Jincheng College **(TOP 0.6%)
-- 2020.09: First-class scholarship of Chengdu Jincheng College **(TOP 0.5%)
-- 2020.07: 2020 The 3rd China Youth Cup National Student Mathematical Modelling Competition, **Third Prize
-- 2020.04: 2020 The 13th Certified Cup Mathematics China Mathematical Modelling Online Challenge, **First Prize
+- 2020.09: Creation and Innovation Prize, Chengdu Jincheng College **(TOP 0.6%)**
+- 2020.09: First-class scholarship of Chengdu Jincheng College **(TOP 0.5%)**
+- 2020.07: 2020 The 3rd China Youth Cup National Student Mathematical Modelling Competition, **Third Prize**
+- 2020.04: 2020 The 13th Certified Cup Mathematics China Mathematical Modelling Online Challenge, **First Prize**
 
 # 📖 Educations
-- 2019.09 - 2023.06: **Chengdu JinCheng College**, B.Sc. in Accouting.
+- 2019.09 - 2022.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. College degree
+- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **first** student of the whole school since its foundation）
+**- Language Proficiency and Overseas Academic Exchange**
+- 2023.07-08:Academic Exchange at Mahasarakham University and Khon Kaen University, Thailand
+- 2020.12: CET 4 Score--298
+
 
 # 🤝 Invited Cooperations
+- 2024.01: International Scientific Technical and Economic Research journal，**Editor, Reviewer**
+- 2023.10: The UK association of applied mathemativs, **Student Member**
+- 2023.08: Sichuan Knowledgeable Intelligent Sciences, **Researcher**
+- 2022.08: Chinese Society of Electrical Engineering, **Student Fellow**
+- 2022.07: Chinese Society of Industrial and Applied Mathematics, **Student Fellow**
+- 2022.03: Mathematical Modelling Research Centre, Chengdu Jincheng College, **Research Fellow**
 - 2021.12: Chinese Academy of Natural Sciences, Chengdu, China
 - 2021.12: Chengdu Branch of the Chinese Academy of Sciences, Chengdu, China
 - 2021.03：2021Published a high value paper which was appreciated by Ma Zelin, Deputy Director of Chengdu Expo Bureau, and invited to cooperate with Chengdu Sugar & Wine Fair for exhibition projects.
