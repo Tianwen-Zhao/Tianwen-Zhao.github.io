@@ -114,8 +114,8 @@ redirect_from:
 - 2020.04: 2020 The 13th Certified Cup Mathematics China Mathematical Modelling Online Challenge, **First Prize**
 
 # 📖 Educations
-- 2019.09 - 2022.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. College degree-**GPA3.9/5**
-- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. in Accouting. Undergraduate studies-**GPA3.8/5**（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
+- 2019.09 - 2022.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. College degree-**GPA3.9/5**
+- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. Undergraduate studies-**GPA3.8/5**（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
 
 **Language Proficiency and Overseas Academic Exchange**
 - 2023.07-08: Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
