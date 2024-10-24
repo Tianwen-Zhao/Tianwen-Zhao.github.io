@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianwen Zhao"
-description              : "Chengdu Jincheng College undergraduate student "
+description              : "Daegu Catholic University, Successive Postgraduate and Doctoral Program"
 repository               : "Tianwen-Zhao/Tianwen-Zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Tianwen Zhao"
   avatar           : "images/me.jpg"
   bio              : 
-  location         : "Chengdu, China"
+  location         : "Gyeongsan, Republic of Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HspkYHgAAAAJ&hl=zh-CN"
