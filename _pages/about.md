@@ -21,7 +21,7 @@ redirect_from:
 + **（Now） Daegu Catholic University, *Successive Postgraduate and Doctoral Program*, Department of Trade and Logistics, Gyeongsan, Republic of Korea**
 + Chengdu Jincheng College Undergraduate student in Accounting（The School's only signature program), National Scholarship and President's Special Scholarship in 2021.
 + My research interests include **spatial econometrics, applied mathematics, regional economics, financial mathematical modelling**, etc. 
-+ Publications in related fields have been submitted and published in **EI INDEX, SCOPUS, GOOGLE_SCHOLAR, CNKI_SCHOLAR** and other databases.
++ Publications in related fields have been submitted and published in **SCI INDEX, EI INDEX, SCOPUS, GOOGLE_SCHOLAR, CNKI_SCHOLAR** and other databases.
 
 
 # 🔥 Recent News
