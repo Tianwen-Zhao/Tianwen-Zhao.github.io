@@ -18,13 +18,29 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
++ **（Now）** Daegu Catholic University, **Successive Postgraduate and Doctoral Program**, Department of Trade and Logistics, Gyeongsan, Republic of Korea
 + Chengdu Jincheng College Undergraduate student in Accounting（The School's only signature program), National Scholarship and President's Special Scholarship in 2021.
 + My research interests include **spatial econometrics, applied mathematics, regional economics, financial mathematical modelling**, etc. 
 + Publications in related fields have been submitted and published in **EI INDEX, SCOPUS, GOOGLE_SCHOLAR, CNKI_SCHOLAR** and other databases.
 
 
 # 🔥 Recent News
-- 2023.10-2024.03: Under Review ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Study on the optimal path of emergency material distribution in 5G network environment for delivery vehicles and UAV" SCI Journals Fluctuation and Noise Letters（JCR Q3）"**.
+
+- 2024.10-: Under Review ~ **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565). and The Agricultural Research Development Agency (Public Organization) of Thailand (ARDA) offered funding for Piyapatr Busababodhin's research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB-30) and High-quality development research center project in Tuojiang River Basin(No. TJGZL2024-07). Funded paper "Demand forecasting and carbon emission optimisation in green supply chains: a study of sustainable logistics based on TCN-LightGBM" will publish in Sustainability（SCIE-SSCI-SCOPUS JCR Q2）"**.
+
+- 2024.10-: Under Review ~ **Sichuan Disaster Economy Research Centre Project (No. 515 ZHJJ2024ZC001) and Mahasarakham University, (No. 6508006/2565). Additionally, Piyapatr’s 516 work also was funded by the Agricultural Research Development Agency (Public Organization) of 517 Thailand, (ARDA). Funded paper "Substantial Improvement or Strategic Optimisation?——The Impact of New Energy Demonstration City Construction on the Quality of Enterprises Green Technology Innovation" will publish in PLOS ONE（SCIE JCR Q1）"**.
+
+- 2024.10-: Under Review ~ **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565). and The Agricultural Research Development Agency (Public Organization) of Thailand (ARDA) offered funding for Piyapatr Busababodhin's research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB-30) and High-quality development research center project in Tuojiang River Basin(No. TJGZL2024-07). Funded paper "The impact of digital inclusive finance on the resilience of the manufacturing industry chain: mechanism analysis and empirical testing" will publish in PLOS ONE（SCIE JCR Q1）"**.
+
+- 2024.09-: ACCEPT ~ **paper "Big data-driven possibility prediction method based on the gradient descent decision tree algorithm" will publish in The 2024 2nd International Conference on Applied Statistics, Modeling and Advanced Algorithms（ASMA2024）.**(EI Index，SCOPUS)**
+
+- 2024.09-: ACCEPT ~ **Mahasarakham University. Funded paper "Gradient Descent Decision Tree Algorithm and Nonlinear Programming for Credit Risk Assessment and Credit Strategy" will publish in The International Conference on Applied Statistics (ICAS2024)（Scopus, Emerging Sources Citation Index (ESCI), ASEAN Citation Index (ACI), Thai-Journal Citation Index (TCI) and ZentralBlatt MATH）"**.
+
+- 2024.09-: ACCEPT ~ **Mahasarakham University. Funded paper "Identification ofearthquake source attributes based on DAPSO-BP combined model" will publish in Journals Lobachevskii Journal of Mathematics（ESCI JCR Q2）"**.
+  
+- 2024.09-: ACCEPT ~ **paper "Research on Enterprise Risk Assessment Methods Based on Machine Learning Technology" published in The 8th International Conference on Data Science and BusinessAnalytics, 2024.**(EI Index，IEEE，SCOPUS)**
+
+- 2024.09-: Under Review ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Study on the optimal path of emergency material distribution in 5G network environment for delivery vehicles and UAV" Journals Scientific Reports（SCIE JCR Q1）"**.
 
 - 2024.03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Credit Risk Analysis of Micro and Small Enterprises Based on Big Data - A Big Data-Driven Logistic Regression Model Based on Bank Credit Records" was published on 7 July 2024 in the International Conference on Applied Statistics. Logistic Regression Modelling of Bank Credit Records"** published in the 7th International Symposium on Big Data and Applied Statistics, 2024.**(EI Index，SCOPUS)**
 
@@ -114,12 +130,11 @@ redirect_from:
 - 2020.04: 2020 The 13th Certified Cup Mathematics China Mathematical Modelling Online Challenge, **First Prize**
 
 # 📖 Educations
-- 2019.09 - 2022.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. College degree-**GPA3.9/5**
-- 2022.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. Undergraduate studies-**GPA3.8/5**（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
+- 2024.09 - 2027.06: **Daegu Catholic University**, **Successive Postgraduate and Doctoral Program**, Department of Trade and Logistics, Gyeongsan, Republic of Korea
+- 2019.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. Undergraduate studies-**GPA3.8/5**（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
 
 **Language Proficiency and Overseas Academic Exchange**
 - 2023.07-08: Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
-- 2020.12: CET 4 Score--298
 
 
 # 🤝 Invited Cooperations
