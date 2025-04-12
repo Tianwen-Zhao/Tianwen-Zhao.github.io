@@ -30,14 +30,14 @@ redirect_from:
 - 2025.03-: ACCEPTED ~ **Tianwen Zhao (1st)**, Guoqing Chen, Sujitta Suraphee, Tossapol Phoophiwfa, Piyapatr Busababodhin; **Research papers**: "A Hybrid TCN-XGBoost Model for Agricultural Product Market Price Forecasting" will publish in **PLOS ONE（SCIE JCR Q1, IF: 2.9）**.
 **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565)**
 
-- 2025.03-: Zixu Wang; Zherong Zhang; Tian Su; Zixu Ding; **Tianwen Zhao (Corresponding Author,5th)**; **Conference papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in 2024 International Conference on Information Technology, Comunication Ecosystem and Management (ITCEM).**(EI Index，SCOPUS)** DOI: https://doi.org/10.1109/ITCEM65710.2024.00044
+- 2024.12-: Zixu Wang; Zherong Zhang; Tian Su; Zixu Ding; **Tianwen Zhao (Corresponding Author,5th)**; **Conference papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in 2024 International Conference on Information Technology, Comunication Ecosystem and Management (ITCEM).**(EI Index，SCOPUS)** DOI: https://doi.org/10.1109/ITCEM65710.2024.00044
 
-- 2025.03-: Guoqing Chen, Nipaporn Chutiman, **Tianwen Zhao (3rd)**, Chom Panta & Piyapatr Busababodhin; **Research papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in Journals **Lobachevskii Journal of Mathematics（ESCI JCR Q2, Chinese Academy of Sciences ranking Q4, IF: 0.8）**. DOI: https://doi.org/10.1134/S1995080224607537
-**(Mahasarakham University)**
-
-- 2025.01-: **Tianwen Zhao (1st)**, Guoqing Chen, Thom Gatewongsa, Piyapatr Busababodhin; **Research papers**: "Forecasting Agricultural Trade Based on TCN-LightGBM Models: A Data-Driven Decision" published in Journals **Research on World Agricultural Economy（ESCI JCR Q3, IF: 0.7）"**. DOI: https://doi.org/10.36956/rwae.v6i1.1429
+- 2024.11-: **Tianwen Zhao (1st)**, Guoqing Chen, Thom Gatewongsa, Piyapatr Busababodhin; **Research papers**: "Forecasting Agricultural Trade Based on TCN-LightGBM Models: A Data-Driven Decision" published in Journals **Research on World Agricultural Economy（ESCI JCR Q3, IF: 0.7）"**. DOI: https://doi.org/10.36956/rwae.v6i1.1429
 **(This research project was ϐinancially supported by Mahasarakham University and the Ofϐice of the Permanent Secretary of the Ministry of Higher Education, Science, Research and Innovation for Piyapatr Busababodhin’s research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB‑30) and HighQuality Development Research Center Project in Tuojiang River Basin (No. TJGZL2024‑07).**
-  
+
+- 2024.09-: Guoqing Chen, Nipaporn Chutiman, **Tianwen Zhao (3rd)**, Chom Panta & Piyapatr Busababodhin; **Research papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in Journals **Lobachevskii Journal of Mathematics（ESCI JCR Q2, Chinese Academy of Sciences ranking Q4, IF: 0.8）**. DOI: https://doi.org/10.1134/S1995080224607537
+**(Mahasarakham University)**
+    
 - 2023.10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, **(Peking University Chinese Core Journals, JST, Pж(AJ), CSCD, WJCI, IF: 1.537)**.
 
 - 2023.07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.**(EI Index, SCOPUS)**
