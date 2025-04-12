@@ -20,33 +20,27 @@ redirect_from:
 # 🧑‍🎓 About Me
 + **（Now） Daegu Catholic University, *Successive Postgraduate and Doctoral Program*, Department of Trade and Logistics, Gyeongsan, Republic of Korea**
 + Chengdu Jincheng College Undergraduate student in Accounting（The School's only signature program), National Scholarship and President's Special Scholarship in 2021.
-+ My research interests include **spatial econometrics, applied mathematics, regional economics, financial mathematical modelling**, etc. 
-+ Publications in related fields have been submitted and published in **SCI INDEX, EI INDEX, SCOPUS, GOOGLE_SCHOLAR, CNKI_SCHOLAR** and other databases.
-
++ My research interests include **Energy economic forecasting;Machine learning;Applied mathematics;Computer science;Deep learning;Mathematical modeling;Trade economic forecasting;Supply Chain Management;Spatial Econometrics**, etc. 
++ Publications in related fields have been submitted and published in **SCI, EI, SCOPUS, GOOGLE_SCHOLAR, CNKI_SCHOLAR INDEX** and other databases.
++ Served as **Reviewer** for SCI journal **Renewable Energy (SCIE Q1, IF: 9, TOP)** and **IEEE Access (SCIE Q2, IF: 3.4)**
 
 # 🔥 Recent News
 
-- 2024.10-: Under Review ~ **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565). and The Agricultural Research Development Agency (Public Organization) of Thailand (ARDA) offered funding for Piyapatr Busababodhin's research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB-30) and High-quality development research center project in Tuojiang River Basin(No. TJGZL2024-07). Funded paper "Demand forecasting and carbon emission optimisation in green supply chains: a study of sustainable logistics based on TCN-LightGBM" will publish in Sustainability（SCIE-SSCI-SCOPUS JCR Q2）"**.
 
-- 2024.10-: Under Review ~ **Sichuan Disaster Economy Research Centre Project (No. 515 ZHJJ2024ZC001) and Mahasarakham University, (No. 6508006/2565). Additionally, Piyapatr’s 516 work also was funded by the Agricultural Research Development Agency (Public Organization) of 517 Thailand, (ARDA). Funded paper "Substantial Improvement or Strategic Optimisation?——The Impact of New Energy Demonstration City Construction on the Quality of Enterprises Green Technology Innovation" will publish in PLOS ONE（SCIE JCR Q1）"**.
+- 2025.03-: ACCEPTED ~ **Tianwen Zhao (1st)**, Guoqing Chen, Sujitta Suraphee, Tossapol Phoophiwfa, Piyapatr Busababodhin; **Research papers**: "A Hybrid TCN-XGBoost Model for Agricultural Product Market Price Forecasting" will publish in **PLOS ONE（SCIE JCR Q1, IF: 2.9）**.
+**Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565)**
 
-- 2024.10-: Under Review ~ **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565). and The Agricultural Research Development Agency (Public Organization) of Thailand (ARDA) offered funding for Piyapatr Busababodhin's research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB-30) and High-quality development research center project in Tuojiang River Basin(No. TJGZL2024-07). Funded paper "The impact of digital inclusive finance on the resilience of the manufacturing industry chain: mechanism analysis and empirical testing" will publish in PLOS ONE（SCIE JCR Q1）"**.
+- 2025.03-: Zixu Wang; Zherong Zhang; Tian Su; Zixu Ding; **Tianwen Zhao (Corresponding Author,5th)**; **Conference papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in 2024 International Conference on Information Technology, Comunication Ecosystem and Management (ITCEM).**(EI Index，SCOPUS)** DOI: https://doi.org/10.1109/ITCEM65710.2024.00044
 
-- 2024.09-: ACCEPT ~ **paper "Big data-driven possibility prediction method based on the gradient descent decision tree algorithm" will publish in The 2024 2nd International Conference on Applied Statistics, Modeling and Advanced Algorithms（ASMA2024）.**(EI Index，SCOPUS)**
+- 2025.03-: Guoqing Chen, Nipaporn Chutiman, **Tianwen Zhao (3rd)**, Chom Panta & Piyapatr Busababodhin; **Research papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in Journals **Lobachevskii Journal of Mathematics（ESCI JCR Q2, Chinese Academy of Sciences ranking Q4, IF: 0.8）**. DOI: https://doi.org/10.1134/S1995080224607537
+**(Mahasarakham University)**
 
-- 2024.09-: ACCEPT ~ **Mahasarakham University. Funded paper "Gradient Descent Decision Tree Algorithm and Nonlinear Programming for Credit Risk Assessment and Credit Strategy" will publish in The International Conference on Applied Statistics (ICAS2024)（Scopus, Emerging Sources Citation Index (ESCI), ASEAN Citation Index (ACI), Thai-Journal Citation Index (TCI) and ZentralBlatt MATH）"**.
-
-- 2024.09-: ACCEPT ~ **Mahasarakham University. Funded paper "Identification ofearthquake source attributes based on DAPSO-BP combined model" will publish in Journals Lobachevskii Journal of Mathematics（ESCI JCR Q2）"**.
+- 2025.01-: **Tianwen Zhao (1st)**, Guoqing Chen, Thom Gatewongsa, Piyapatr Busababodhin; **Research papers**: "Forecasting Agricultural Trade Based on TCN-LightGBM Models: A Data-Driven Decision" published in Journals **Research on World Agricultural Economy（ESCI JCR Q3, IF: 0.7）"**. DOI: https://doi.org/10.36956/rwae.v6i1.1429
+**(This research project was ϐinancially supported by Mahasarakham University and the Ofϐice of the Permanent Secretary of the Ministry of Higher Education, Science, Research and Innovation for Piyapatr Busababodhin’s research as well. Guoqing Chen’s work was backed by Sichuan Revolutionary Old Area Development Research Center Project (No. SLQ2024SB‑30) and HighQuality Development Research Center Project in Tuojiang River Basin (No. TJGZL2024‑07).**
   
-- 2024.09-: ACCEPT ~ **paper "Research on Enterprise Risk Assessment Methods Based on Machine Learning Technology" published in The 8th International Conference on Data Science and BusinessAnalytics, 2024.**(EI Index，IEEE，SCOPUS)**
+- 2023.10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, **(Peking University Chinese Core Journals, JST, Pж(AJ), CSCD, WJCI, IF: 1.537)**.
 
-- 2024.09-: Under Review ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Study on the optimal path of emergency material distribution in 5G network environment for delivery vehicles and UAV" Journals Scientific Reports（SCIE JCR Q1）"**.
-
-- 2024.03: Accepted ~ **Soft Science Research Project of Sichuan Province (23RKX0351). Funded paper "Credit Risk Analysis of Micro and Small Enterprises Based on Big Data - A Big Data-Driven Logistic Regression Model Based on Bank Credit Records" was published on 7 July 2024 in the International Conference on Applied Statistics. Logistic Regression Modelling of Bank Credit Records"** published in the 7th International Symposium on Big Data and Applied Statistics, 2024.**(EI Index，SCOPUS)**
-
-- 2023.10: By the **Soft Science Research Project of Sichuan Province (23RKX0351); Basic Scientific Research Operating Expenses of China Earthquake Administration Research Institute and National Research Institute for Natural Disaster Prevention and Control of the Ministry of Emergency Management (IS202236328); and Wuhan Gravity and Solid Tide National Field Scientific Observatory Open Fund (WHYWZ202208).** Combination of Mathematical Models for Microseismic Source Localisation Based on Multi-Objective Ant-Lion Optimisation Algorithm" was published in Journal of Geodesy and Geodynamics, **(Peking University Chinese Core Journals，JST, Pж(AJ), CSCD, WJCI, IF: 1.537)**.
-
-- 2023.07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.**(EI Index，SCOPUS)**
+- 2023.07: By the **Soft Science Project of Sichuan Science and Technology Department (2023JDR0271). Funded paper "Gasoline Octane Loss Prediction Model Based on XGboost-GBDT Combined Prediction"** was published in the Seventh International Conference on Computers, Software and Modelling (ICCSM), 2023.**(EI Index, SCOPUS)**
 
 - 2022.03：By the **Project of Sichuan Animation Research Centre, a key research base of social sciences in Sichuan Province (Project No. DM202125)**. The fund-sponsored paper entitled "*Study on the Synergistic Development Path and Countermeasures of Sichuan Animation Industry and Regional Economy*" was published in *Inner Mongolia Science Technology & Economy. (IF=0.189)
 
@@ -131,7 +125,7 @@ redirect_from:
 
 # 📖 Educations
 - 2024.09 - 2027.06: **Daegu Catholic University**, **Successive Postgraduate and Doctoral Program**, Department of Trade and Logistics, Gyeongsan, Republic of Korea
-- 2019.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. Undergraduate studies-**GPA3.8/5**（**Awarded the President's Special Scholarship** for exemption from specialised studies to undergraduate studies，The **First** student of the whole school since its foundation）
+- 2019.09 - 2024.06: **Chengdu JinCheng College**, The Collcge of Accounting and Finance. Accouting. Undergraduate studies-**GPA3.8/5**
 
 **Language Proficiency and Overseas Academic Exchange**
 - 2023.07-08: Faculty of Science of Mahasarakham University and Khon Kaen University, Thailand, conducted academic exchange in English, Thailand
