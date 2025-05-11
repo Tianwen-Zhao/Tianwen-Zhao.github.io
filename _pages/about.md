@@ -27,7 +27,7 @@ redirect_from:
 # 🔥 Recent News
 
 
-- 2025.03-: ACCEPTED ~ **Tianwen Zhao (1st)**, Guoqing Chen, Sujitta Suraphee, Tossapol Phoophiwfa, Piyapatr Busababodhin; **Research papers**: "A Hybrid TCN-XGBoost Model for Agricultural Product Market Price Forecasting" will publish in **PLOS ONE（SCIE JCR Q1, IF: 2.9）**.
+- 2025.03-: Online ~ **Tianwen Zhao (1st)**, Guoqing Chen, Sujitta Suraphee, Tossapol Phoophiwfa, Piyapatr Busababodhin; **Research papers**: "A Hybrid TCN-XGBoost Model for Agricultural Product Market Price Forecasting" will publish in **PLOS ONE（SCIE JCR Q1, IF: 2.9）**. DOI: https://doi.org/10.1371/journal.pone.0322496
 **Mahasarakham University provided financial assistance for the aforementioned research (No. 6504003/2565)**
 
 - 2024.12-: Zixu Wang; Zherong Zhang; Tian Su; Zixu Ding; **Tianwen Zhao (Corresponding Author,5th)**; **Conference papers**: "Research on Supply Chain Network Optimisation Based on the CNNs-BiLSTM Model" published in 2024 International Conference on Information Technology, Comunication Ecosystem and Management (ITCEM).**(EI Index，SCOPUS)** DOI: https://doi.org/10.1109/ITCEM65710.2024.00044
